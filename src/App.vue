@@ -1,13 +1,13 @@
 <template>
-  <AppHome />
+  <router-view></router-view>
 </template>
 <script>
 
-import AppHome from './components/AppHome'
+
 
 export default{
 
-  components:{AppHome}
+
  
 }
 </script>
